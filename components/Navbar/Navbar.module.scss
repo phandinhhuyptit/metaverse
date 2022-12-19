@@ -1,0 +1,17 @@
+.nav {
+@apply relative sm:px-16 p-6 py-8;
+
+.container {
+   @apply  flex items-center justify-between; 
+
+   .imgSearch {
+      
+      width: 19px;
+      height: 19px;
+   }
+   .imgMenu {
+      width: 24px;
+      height: 24px;
+   }
+} 
+}
